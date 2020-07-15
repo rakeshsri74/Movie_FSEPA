@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MovieMultiplex
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: RAKESH
+Implementation-Vendor-Id: com.iiht
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MovieMultiplex
+Created-By: Maven Integration for Eclipse
+
